@@ -1,0 +1,7 @@
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

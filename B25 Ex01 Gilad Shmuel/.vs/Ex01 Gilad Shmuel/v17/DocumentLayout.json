@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB1E39F0-737C-4DEE-A994-450569F8A29F}|Ex01_05\\Ex01_05.csproj|c:\\users\\gilad\\desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\b25 ex01 yamlevin 318911625 giladshmuel 318794641\\ex01_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB1E39F0-737C-4DEE-A994-450569F8A29F}|Ex01_05\\Ex01_05.csproj|solutionrelative:ex01_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53053A2A-8BAF-4692-AF3A-9F4E80CB58EE}|Ex01_04\\Ex01_04.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\ex01_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53053A2A-8BAF-4692-AF3A-9F4E80CB58EE}|Ex01_04\\Ex01_04.csproj|solutionrelative:ex01_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262ACF0E-AD98-405E-9D88-F8BD68BCF5E8}|Ex01_03\\Ex01_03.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\ex01_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262ACF0E-AD98-405E-9D88-F8BD68BCF5E8}|Ex01_03\\Ex01_03.csproj|solutionrelative:ex01_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DEFA3B7-9623-4677-A314-D2BEA3322F2D}|Ex01_02\\Ex01_02.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\ex01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEFA3B7-9623-4677-A314-D2BEA3322F2D}|Ex01_02\\Ex01_02.csproj|solutionrelative:ex01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F33A97F-FDA8-43B3-80CD-B064C3B2FD46}|Ex01_01\\Ex01_01.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\ex01_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F33A97F-FDA8-43B3-80CD-B064C3B2FD46}|Ex01_01\\Ex01_01.csproj|solutionrelative:ex01_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_05\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01_05\\Program.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_05\\Program.cs",
+              "RelativeToolTip": "Ex01_05\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:57:02.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_04\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01_04\\Program.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_04\\Program.cs",
+              "RelativeToolTip": "Ex01_04\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T07:41:56.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01_03\\Program.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_03\\Program.cs",
+              "RelativeToolTip": "Ex01_03\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:40:10.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_02\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01_02\\Program.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_02\\Program.cs",
+              "RelativeToolTip": "Ex01_02\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:32:59.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_01\\Program.cs",
+              "RelativeDocumentMoniker": "Ex01_01\\Program.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex01 YamLevin 318911625 GiladShmuel 318794641\\Ex01_01\\Program.cs",
+              "RelativeToolTip": "Ex01_01\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T05:59:38.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

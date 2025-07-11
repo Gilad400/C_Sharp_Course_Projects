@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11735E3E-AC91-4E81-856E-97414286F0F9}|Game_UI\\Game_UI.csproj|c:\\users\\gilad\\desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\b25 ex02 gilad shmuel\\game_ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11735E3E-AC91-4E81-856E-97414286F0F9}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\game_logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11735E3E-AC91-4E81-856E-97414286F0F9}|Game_UI\\Game_UI.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\game_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11735E3E-AC91-4E81-856E-97414286F0F9}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11735E3E-AC91-4E81-856E-97414286F0F9}|Game_UI\\Game_UI.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\game_ui\\pinmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11735E3E-AC91-4E81-856E-97414286F0F9}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\pinmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\game_logic\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\game_logic\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\game_logic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\game_logic\\egamepins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7CE8F3-AF75-4E28-A754-26206C900EA5}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\egamepins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameConstants.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\GameConstants.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\GameConstants.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\GameConstants.cs",
+              "RelativeToolTip": "Game_Logic\\GameConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:44:57.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "Game_UI\\GameUI.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_UI\\GameUI.cs",
+              "RelativeToolTip": "Game_UI\\GameUI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:20:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\Board.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\Board.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\Board.cs",
+              "RelativeToolTip": "Game_Logic\\Board.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:14:55.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PinMapper.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_UI\\PinMapper.cs",
+              "RelativeDocumentMoniker": "Game_UI\\PinMapper.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_UI\\PinMapper.cs",
+              "RelativeToolTip": "Game_UI\\PinMapper.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:21:11.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "eGamePins.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\eGamePins.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\eGamePins.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\eGamePins.cs",
+              "RelativeToolTip": "Game_Logic\\eGamePins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:40:02.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guess.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\Guess.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\Guess.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\Guess.cs",
+              "RelativeToolTip": "Game_Logic\\Guess.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAD4vwsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:54:55.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\Game.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\Game.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_Logic\\Game.cs",
+              "RelativeToolTip": "Game_Logic\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:58:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_UI\\Program.cs",
+              "RelativeDocumentMoniker": "Game_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\gilad\\Desktop\\\u05DE\u05D8\u05DC\u05D5\u05EA\\B25 Ex02 Gilad Shmuel\\Game_UI\\Program.cs",
+              "RelativeToolTip": "Game_UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:12.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

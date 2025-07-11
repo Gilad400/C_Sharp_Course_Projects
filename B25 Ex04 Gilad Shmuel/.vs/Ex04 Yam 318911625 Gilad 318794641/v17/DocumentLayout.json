@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.test\\showversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\showversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.test\\countlowercaseletters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\countlowercaseletters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.test\\showcurrenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\showcurrenttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.test\\showcurrentdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\showcurrentdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.test\\menuoperations .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\menuoperations .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|c:\\users\\yamle\\onedrive\\documents\\c#\\ex_04\\b25 ex04 yamlevin 318911625 giladshmuel 318794641\\ex04.menus.test\\menucreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944067C0-A59F-4D6B-A542-661CF7C33093}|Ex04.Menus.Test\\Ex04.Menus.Test.csproj|solutionrelative:ex04.menus.test\\menucreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A5B176-4AB1-4A52-A393-D884FE6CDBB5}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.interfaces\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A5B176-4AB1-4A52-A393-D884FE6CDBB5}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A5B176-4AB1-4A52-A393-D884FE6CDBB5}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.interfaces\\imenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A5B176-4AB1-4A52-A393-D884FE6CDBB5}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\imenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A5B176-4AB1-4A52-A393-D884FE6CDBB5}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.interfaces\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A5B176-4AB1-4A52-A393-D884FE6CDBB5}|Ex04.Menus.Interfaces\\Ex04.Menus.Interfaces.csproj|solutionrelative:ex04.menus.interfaces\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A880A-10A9-4466-99B4-027A5A65850B}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.events\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A880A-10A9-4466-99B4-027A5A65850B}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|solutionrelative:ex04.menus.events\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586A880A-10A9-4466-99B4-027A5A65850B}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\ex04.menus.events\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A880A-10A9-4466-99B4-027A5A65850B}|Ex04.Menus.Events\\Ex04.Menus.Events.csproj|solutionrelative:ex04.menus.events\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuOperations .cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\MenuOperations .cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\MenuOperations .cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\MenuOperations .cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\MenuOperations .cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T17:04:07.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Events\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Events\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Events\\MenuItem.cs",
+              "RelativeToolTip": "Ex04.Menus.Events\\MenuItem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:24:00.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Events\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Events\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Events\\MainMenu.cs",
+              "RelativeToolTip": "Ex04.Menus.Events\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:23:27.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuCreator.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\MenuCreator.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\MenuCreator.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\MenuCreator.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\MenuCreator.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:47:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowCurrentTime.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\ShowCurrentTime.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowCurrentTime.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\ShowCurrentTime.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowCurrentTime.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:35:32.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowCurrentDate.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\ShowCurrentDate.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowCurrentDate.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\ShowCurrentDate.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowCurrentDate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:32:00.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountLowercaseLetters.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\CountLowercaseLetters.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\CountLowercaseLetters.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\CountLowercaseLetters.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\CountLowercaseLetters.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:26:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowVersion.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\ShowVersion.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\ShowVersion.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\ShowVersion.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\ShowVersion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:16:08.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Interfaces\\IMenuItem.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\IMenuItem.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Interfaces\\IMenuItem.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\IMenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:29:56.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\Program.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Test\\Program.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Test\\Program.cs",
+              "RelativeToolTip": "Ex04.Menus.Test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:01:05.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Interfaces\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Interfaces\\MenuItem.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\MenuItem.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:56:26.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Interfaces\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Ex04.Menus.Interfaces\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_04\\B25 Ex04 YamLevin 318911625 GiladShmuel 318794641\\Ex04.Menus.Interfaces\\MainMenu.cs",
+              "RelativeToolTip": "Ex04.Menus.Interfaces\\MainMenu.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:56:06.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

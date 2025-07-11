@@ -1,0 +1,7 @@
+C:\Users\gilad\Desktop\מטלות\B25 Ex05 Gilad Shmuel\Game_Logic\bin\Debug\Game_Logic.dll.config
+C:\Users\gilad\Desktop\מטלות\B25 Ex05 Gilad Shmuel\Game_Logic\bin\Debug\Game_Logic.dll
+C:\Users\gilad\Desktop\מטלות\B25 Ex05 Gilad Shmuel\Game_Logic\bin\Debug\Game_Logic.pdb
+C:\Users\gilad\Desktop\מטלות\B25 Ex05 Gilad Shmuel\Game_Logic\obj\Debug\Game_Logic.csproj.AssemblyReference.cache
+C:\Users\gilad\Desktop\מטלות\B25 Ex05 Gilad Shmuel\Game_Logic\obj\Debug\Game_Logic.csproj.CoreCompileInputs.cache
+C:\Users\gilad\Desktop\מטלות\B25 Ex05 Gilad Shmuel\Game_Logic\obj\Debug\Game_Logic.dll
+C:\Users\gilad\Desktop\מטלות\B25 Ex05 Gilad Shmuel\Game_Logic\obj\Debug\Game_Logic.pdb

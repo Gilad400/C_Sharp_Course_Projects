@@ -1,0 +1,7 @@
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll.config
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.dll
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Events\bin\Debug\Ex04.Menus.Events.pdb
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.AssemblyReference.cache
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.csproj.CoreCompileInputs.cache
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.dll
+C:\Users\gilad\Desktop\מטלות\B25 Ex04 Gilad Shmuel\Ex04.Menus.Events\obj\Debug\Ex04.Menus.Events.pdb

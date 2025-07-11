@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ex04.Menus.Test
+{
+    internal class Program
+    {
+        public static void Main()
+        {
+            MenuCreator menuCreator = new MenuCreator();
+
+            menuCreator.show();
+        }
+    }
+}

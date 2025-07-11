@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|c:\\users\\yamle\\onedrive\\documents\\c#\\ex_05\\b25 ex05 yamlevin 318911625 giladshmuel 318794641\\game_ui\\colorselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\colorselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\gameboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\gameboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\guessbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\guessbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\gamesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\gamesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\arrowbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\arrowbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\colorpinmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\colorpinmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\guessbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\guessbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_logic\\egamepins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\egamepins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_logic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\colorselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\colorselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_ui\\gamesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA5E9BF-0BC8-485A-B03F-0EEFCDCB761A}|Game_UI\\Game_UI.csproj|solutionrelative:game_ui\\gamesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_logic\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\game_logic\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E4D391-11BF-458F-9920-AC4CD5F3C244}|Game_Logic\\Game_Logic.csproj|solutionrelative:game_logic\\gameconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuessButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GuessButton.cs",
+              "RelativeDocumentMoniker": "Game_UI\\GuessButton.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\Ex05 Yam 318911625 Gilad 318794641\\Game_UI\\GuessButton.cs [Design]",
+              "RelativeToolTip": "..\\Ex05 Yam 318911625 Gilad 318794641\\Game_UI\\GuessButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:53:29.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrowButton.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ArrowButton.cs",
+              "RelativeDocumentMoniker": "Game_UI\\ArrowButton.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ArrowButton.cs",
+              "RelativeToolTip": "Game_UI\\ArrowButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:47:47.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuessButton.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GuessButton.cs",
+              "RelativeDocumentMoniker": "Game_UI\\GuessButton.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GuessButton.cs",
+              "RelativeToolTip": "Game_UI\\GuessButton.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:45:16.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorPinMapper.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ColorPinMapper.cs",
+              "RelativeDocumentMoniker": "Game_UI\\ColorPinMapper.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ColorPinMapper.cs",
+              "RelativeToolTip": "Game_UI\\ColorPinMapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:06:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GameManager.cs",
+              "RelativeDocumentMoniker": "Game_UI\\GameManager.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GameManager.cs",
+              "RelativeToolTip": "Game_UI\\GameManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:31:12.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameBoardForm.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GameBoardForm.cs",
+              "RelativeDocumentMoniker": "Game_UI\\GameBoardForm.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GameBoardForm.cs",
+              "RelativeToolTip": "Game_UI\\GameBoardForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:22:15.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ColorSelectionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ColorSelectionForm.cs",
+              "RelativeDocumentMoniker": "Game_UI\\ColorSelectionForm.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ColorSelectionForm.cs [Design]",
+              "RelativeToolTip": "Game_UI\\ColorSelectionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:24:46.109Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColorSelectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ColorSelectionForm.cs",
+              "RelativeDocumentMoniker": "Game_UI\\ColorSelectionForm.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\ColorSelectionForm.cs",
+              "RelativeToolTip": "Game_UI\\ColorSelectionForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:17:24.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameSetupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GameSetupForm.cs",
+              "RelativeDocumentMoniker": "Game_UI\\GameSetupForm.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\Ex05 Yam 318911625 Gilad 318794641\\Game_UI\\GameSetupForm.cs [Design]",
+              "RelativeToolTip": "..\\Ex05 Yam 318911625 Gilad 318794641\\Game_UI\\GameSetupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:35:47.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\Program.cs",
+              "RelativeDocumentMoniker": "Game_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\Program.cs",
+              "RelativeToolTip": "Game_UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:33:51.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameSetupForm.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GameSetupForm.cs",
+              "RelativeDocumentMoniker": "Game_UI\\GameSetupForm.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_UI\\GameSetupForm.cs",
+              "RelativeToolTip": "Game_UI\\GameSetupForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:36:01.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Guess.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\Guess.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\Guess.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\Guess.cs",
+              "RelativeToolTip": "Game_Logic\\Guess.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:30:08.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameConstants.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\GameConstants.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\GameConstants.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\GameConstants.cs",
+              "RelativeToolTip": "Game_Logic\\GameConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:29:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\Game.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\Game.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\Game.cs",
+              "RelativeToolTip": "Game_Logic\\Game.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2MAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:29:32.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "eGamePins.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\eGamePins.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\eGamePins.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\eGamePins.cs",
+              "RelativeToolTip": "Game_Logic\\eGamePins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:29:14.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\Board.cs",
+              "RelativeDocumentMoniker": "Game_Logic\\Board.cs",
+              "ToolTip": "C:\\Users\\yamle\\OneDrive\\Documents\\C#\\Ex_05\\B25 Ex05 YamLevin 318911625 GiladShmuel 318794641\\Game_Logic\\Board.cs",
+              "RelativeToolTip": "Game_Logic\\Board.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:28:53.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
